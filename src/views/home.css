@@ -1,0 +1,1022 @@
+.home-container10 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-header-and-gallery {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.home-column1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: auto;
+  height: 740px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-unit);
+}
+ 
+.home-content2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  height: 569px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-text10 {
+  height: 165px;
+  font-size: 100px;
+  text-align: center;
+  font-family: "CarnivaleeFreakshow";
+  text-transform: uppercase;
+}
+ 
+.home-image {
+  width: 295px;
+  height: 276px;
+  object-fit: cover;
+}
+ 
+.home-text11 {
+  width: 465px;
+  height: 47px;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Tahoma";
+}
+ 
+.home-button1 {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+ 
+.home-gallery3 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.home-max-width1 {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-container11 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 100%;
+}
+ 
+.home-container12 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-image11 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  align-self: center;
+}
+ 
+.home-container13 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-image2 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  align-self: center;
+}
+ 
+.home-container14 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-image3 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+}
+ 
+.home-container15 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-image4 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+}
+ 
+.home-container16 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-image5 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+}
+ 
+.home-container17 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-image6 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+}
+ 
+.home-container18 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-image7 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+}
+ 
+.home-container19 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-image8 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+}
+ 
+.home-text13 {
+  display: inline-block;
+  font-size: 70px;
+  font-family: "Merriweather";
+}
+ 
+.home-text14 {
+  display: inline-block;
+}
+ 
+.home-text15 {
+  display: inline-block;
+}
+ 
+.home-text16 {
+  display: inline-block;
+}
+ 
+.home-text17 {
+  display: inline-block;
+}
+ 
+.home-text18 {
+  display: inline-block;
+}
+ 
+.home-text19 {
+  display: inline-block;
+}
+ 
+.home-meet-your-hosts {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-layout-space-fiveunits);
+  padding-bottom: var(--dl-layout-space-fiveunits);
+}
+ 
+.home-column2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  height: 100%;
+  z-index: 1;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.home-content3 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-heading11 {
+  width: 280px;
+  font-family: "Merriweather";
+}
+ 
+.home-actions1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.home-button2 {
+  text-align: center;
+  justify-content: center;
+}
+ 
+.home-action21 {
+  text-decoration: none;
+}
+ 
+.home-image12 {
+  flex: 1;
+  width: 100%;
+}
+ 
+.home-content12 {
+  display: none;
+}
+ 
+.home-actions2 {
+  gap: var(--dl-layout-space-unit);
+  display: none;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.home-button3 {
+  text-align: center;
+  justify-content: center;
+}
+ 
+.home-action22 {
+  text-decoration: none;
+}
+ 
+.home-text20 {
+  display: inline-block;
+  font-size: 70px;
+  font-style: normal;
+  font-family: "Merriweather";
+  font-weight: 600;
+}
+ 
+.home-text21 {
+  display: inline-block;
+}
+ 
+.home-text22 {
+  display: inline-block;
+}
+ 
+.home-text23 {
+  display: inline-block;
+}
+ 
+.home-text24 {
+  display: inline-block;
+}
+ 
+.home-text25 {
+  display: inline-block;
+}
+ 
+.home-text26 {
+  display: inline-block;
+}
+ 
+.home-music {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-layout-space-fiveunits);
+  padding-bottom: var(--dl-layout-space-fiveunits);
+}
+ 
+.home-column3 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  height: 100%;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.home-content4 {
+  gap: 24px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-heading12 {
+  font-family: "Merriweather";
+}
+ 
+.home-content13 {
+  text-align: center;
+}
+ 
+.home-content14 {
+  text-align: center;
+}
+ 
+.home-content15 {
+  text-align: center;
+}
+ 
+.home-actions3 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-button4 {
+  text-align: center;
+  justify-content: center;
+}
+ 
+.home-action23 {
+  text-decoration: none;
+}
+ 
+.home-image13 {
+  flex: 1;
+  width: 703px;
+  height: 834px;
+}
+ 
+.home-text27 {
+  display: inline-block;
+  font-size: 70px;
+  font-family: "Merriweather";
+}
+ 
+.home-text28 {
+  display: inline-block;
+}
+ 
+.home-text29 {
+  display: inline-block;
+}
+ 
+.home-text30 {
+  display: inline-block;
+}
+ 
+.home-text31 {
+  display: inline-block;
+}
+ 
+.home-text32 {
+  display: inline-block;
+}
+ 
+.home-text33 {
+  display: inline-block;
+}
+ 
+.home-map {
+  width: 1043px;
+  height: 552px;
+  object-fit: cover;
+  padding-bottom: var(--dl-layout-space-fiveunits);
+}
+ 
+.home-directions {
+  font-size: 70px;
+  margin-top: var(--dl-layout-space-fiveunits);
+  font-family: "Merriweather";
+  margin-bottom: var(--dl-layout-space-fiveunits);
+}
+ 
+.home-google-map {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.home-google-maps {
+  width: 1000px;
+  height: 453px;
+  display: flex;
+  justify-content: center;
+}
+ 
+.home-faq9 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.home-max-width2 {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-section-title {
+  align-items: flex-start;
+}
+ 
+.home-text34 {
+  text-align: center;
+}
+ 
+.home-row1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.home-container20 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-faq3-question1 {
+  width: 500px;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.home-container21 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.home-faq3-answer1 {
+  flex-grow: 1;
+}
+ 
+.home-row2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.home-container22 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-faq3-question2 {
+  width: 500px;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.home-container23 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-faq3-answer2 {
+  flex-grow: 1;
+}
+ 
+.home-row3 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.home-container24 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-faq3-question3 {
+  width: 500px;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.home-container25 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-faq3-answer3 {
+  flex-grow: 1;
+}
+ 
+.home-row4 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.home-container26 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-faq3-question4 {
+  width: 500px;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.home-container27 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-faq3-answer4 {
+  flex-grow: 1;
+}
+ 
+.home-content7 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+}
+ 
+.home-accent2-bg {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(1deg) skew(0deg, 0deg);
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-layout-radius-cardradius);
+  justify-content: space-between;
+  transform-style: preserve-3d;
+  background-color: var(--dl-color-theme-accent2);
+}
+ 
+.home-accent2-bg:hover {
+  transform: scale3d(1.1,1.1,1.1);
+}
+ 
+.home-accent1-bg {
+  width: 100%;
+  display: flex;
+  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(-2deg) skew(0deg, 0deg);
+  align-items: center;
+  border-radius: var(--dl-layout-radius-cardradius);
+  justify-content: space-between;
+  transform-style: preserve-3d;
+  background-color: var(--dl-color-theme-accent1);
+}
+ 
+.home-container29 {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  display: flex;
+  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(1deg) skew(0deg, 0deg);
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-layout-space-sixunits);
+  padding-left: var(--dl-layout-space-fourunits);
+  border-radius: var(--dl-layout-radius-cardradius);
+  padding-right: var(--dl-layout-space-fourunits);
+  padding-bottom: var(--dl-layout-space-sixunits);
+}
+ 
+.home-container29:hover {
+  color: var(--dl-color-theme-neutral-light);
+  background-color: var(--dl-color-theme-neutral-dark);
+}
+ 
+.home-content8 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-actions4 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+ 
+.home-link {
+  text-decoration: none;
+}
+ 
+.home-text40 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .home-column1 {
+    height: 911px;
+    padding-bottom: var(--dl-layout-space-fiveunits);
+  }
+  .home-content2 {
+    height: 708px;
+  }
+  .home-text10 {
+    height: 297px;
+  }
+  .home-image11 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .home-image2 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .home-image3 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .home-image4 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .home-image5 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .home-image6 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .home-image7 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .home-image8 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .home-meet-your-hosts {
+    flex-direction: column;
+  }
+  .home-content3 {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .home-content11 {
+    display: none;
+  }
+  .home-button2 {
+    display: none;
+  }
+  .home-content12 {
+    width: 547px;
+    height: 97px;
+    display: flex;
+    margin-top: 43px;
+  }
+  .home-actions2 {
+    display: flex;
+  }
+  .home-music {
+    flex-direction: column;
+  }
+  .home-content4 {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .home-map {
+    width: 100%;
+    height: 549px;
+  }
+  .home-row1 {
+    width: 878px;
+  }
+  .home-faq3-question1 {
+    width: 500px;
+    height: 54px;
+  }
+  .home-container21 {
+    width: 306px;
+    padding-right: 0px;
+  }
+  .home-faq3-answer1 {
+    align-self: flex-end;
+    text-align: left;
+  }
+  .home-faq3-answer2 {
+    width: 346px;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .home-column1 {
+    height: 951px;
+  }
+  .home-content2 {
+    height: 794px;
+  }
+  .home-text10 {
+    height: 392px;
+  }
+  .home-text11 {
+    height: 108px;
+  }
+  .home-heading11 {
+    text-align: center;
+  }
+  .home-content11 {
+    display: none;
+    text-align: center;
+  }
+  .home-actions1 {
+    width: 100%;
+    display: none;
+    justify-content: center;
+  }
+  .home-content12 {
+    width: 611px;
+    height: 60px;
+    margin-top: 29px;
+    text-align: center;
+    margin-bottom: var(--dl-layout-space-twounits);
+  }
+  .home-actions2 {
+    width: 100%;
+    justify-content: center;
+  }
+  .home-heading12 {
+    text-align: center;
+  }
+  .home-content13 {
+    text-align: center;
+  }
+  .home-content14 {
+    text-align: center;
+  }
+  .home-content15 {
+    text-align: center;
+  }
+  .home-actions3 {
+    width: 100%;
+    justify-content: center;
+  }
+  .home-map {
+    width: 100%;
+    height: 565px;
+  }
+  .home-google-maps {
+    width: 711px;
+  }
+  .home-content5 {
+    width: 694px;
+  }
+  .home-faq3-question1 {
+    width: 361px;
+  }
+  .home-faq3-answer1 {
+    width: 306px;
+  }
+  .home-row2 {
+    width: 703px;
+  }
+  .home-faq3-question2 {
+    width: 357px;
+    height: 56px;
+  }
+  .home-row3 {
+    width: 662px;
+  }
+  .home-faq3-question3 {
+    width: 364px;
+    height: 59px;
+  }
+  .home-faq3-answer3 {
+    width: 289px;
+  }
+  .home-faq3-question4 {
+    width: 362px;
+    height: 23px;
+  }
+  .home-container29 {
+    gap: var(--dl-layout-space-oneandhalfunits);
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .home-column1 {
+    height: 949px;
+    margin-bottom: 156px;
+  }
+  .home-content2 {
+    height: 837px;
+    margin-bottom: 0px;
+  }
+  .home-text10 {
+    height: 412px;
+  }
+  .home-button1 {
+    width: 100%;
+  }
+  .home-heading11 {
+    text-align: center;
+  }
+  .home-content11 {
+    text-align: center;
+  }
+  .home-actions1 {
+    width: 35%;
+    height: var(--dl-layout-size-medium);
+    flex-direction: column;
+  }
+  .home-button2 {
+    width: 100%;
+    height: 50px;
+  }
+  .home-content12 {
+    width: 421px;
+    height: 87px;
+    text-align: center;
+  }
+  .home-actions2 {
+    width: 35%;
+    height: var(--dl-layout-size-medium);
+    flex-direction: column;
+  }
+  .home-button3 {
+    width: 100%;
+    height: 50px;
+  }
+  .home-heading12 {
+    text-align: center;
+  }
+  .home-content13 {
+    text-align: center;
+  }
+  .home-content14 {
+    text-align: center;
+  }
+  .home-content15 {
+    text-align: center;
+  }
+  .home-actions3 {
+    flex-direction: column;
+  }
+  .home-button4 {
+    width: 267px;
+    height: 66px;
+  }
+  .home-image13 {
+    width: 478px;
+    height: 878px;
+  }
+  .home-map {
+    width: 100%;
+    height: 370px;
+  }
+  .home-google-maps {
+    width: 442px;
+    height: 278px;
+  }
+  .home-max-width2 {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .home-content5 {
+    width: 426px;
+  }
+  .home-row1 {
+    width: 147px;
+  }
+  .home-faq3-question1 {
+    width: 228px;
+  }
+  .home-container21 {
+    width: 161px;
+  }
+  .home-faq3-answer1 {
+    width: 212px;
+  }
+  .home-faq3-question2 {
+    width: 172px;
+  }
+  .home-faq3-answer2 {
+    width: 200px;
+  }
+  .home-faq3-question3 {
+    width: 182px;
+  }
+  .home-faq3-answer3 {
+    width: 202px;
+  }
+  .home-faq3-question4 {
+    width: var(--dl-layout-size-xlarge);
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text35 {
+    text-align: center;
+  }
+  .home-text36 {
+    text-align: center;
+  }
+  .home-actions4 {
+    flex-wrap: wrap;
+    align-self: stretch;
+    justify-content: center;
+  }
+  .home-link {
+    flex: 1;
+  }
+}
