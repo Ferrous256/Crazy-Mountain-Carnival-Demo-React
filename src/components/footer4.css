@@ -86,12 +86,6 @@
   display: inline-block;
 }
  
-.footer4root-class-name {
-  fill: var(--dl-color-theme-neutral-dark);
-  color: var(--dl-color-theme-neutral-dark);
-  background-color: #dfdfdf;
-}
- 
 @media(max-width: 767px) {
   .footer4-row {
     gap: var(--dl-layout-space-oneandhalfunits);

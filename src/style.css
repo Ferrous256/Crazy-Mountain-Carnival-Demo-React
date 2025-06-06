@@ -1,4 +1,28 @@
 @font-face {
+  font-family: "LoveloLineBold";
+  font-style: normal;
+  font-format: opentype;
+  font-weight: 700;
+  src: url("/fonts/lovelo line bold.otf") ;
+}
+ 
+@font-face {
+  font-family: "Lovelo-Line-Bold-2";
+  font-style: normal;
+  font-format: truetype;
+  font-weight: 700;
+  src: url("/fonts/lovelo-line-bold2.ttf") ;
+}
+ 
+@font-face {
+  font-family: "LoveloLineLight";
+  font-style: normal;
+  font-format: opentype;
+  font-weight: 300;
+  src: url("/fonts/lovelo line light.otf") ;
+}
+ 
+@font-face {
   font-family: "HenryRodeoCircus_demo";
   font-style: normal;
   font-format: truetype;
@@ -14,6 +38,14 @@
   src: url("/fonts/carnevalee freakshow.ttf") ;
 }
  
+@font-face {
+  font-family: "LoveloBlack";
+  font-style: normal;
+  font-format: opentype;
+  font-weight: 900;
+  src: url("/fonts/lovelo black.otf") ;
+}
+ 
 :root {
   --dl-layout-size-large: 144px;
   --dl-layout-size-small: 48px;
@@ -21,12 +53,12 @@
   --dl-layout-size-medium: 96px;
   --dl-layout-size-xlarge: 192px;
   --dl-layout-size-xsmall: 16px;
-  --dl-color-theme-accent1: #FFFFFF;
-  --dl-color-theme-accent2: #F5D1B0;
+  --dl-color-theme-accent1: #000000ff;
+  --dl-color-theme-accent2: #3c3c3cff;
   --dl-layout-radius-round: 50%;
   --dl-layout-size-xxlarge: 288px;
-  --dl-color-theme-primary1: #BF4408;
-  --dl-color-theme-primary2: #E65103;
+  --dl-color-theme-primary1: #ff00e4ff;
+  --dl-color-theme-primary2: #00ffff;
   --dl-layout-size-maxwidth: 1400px;
   --dl-layout-radius-radius2: 2px;
   --dl-layout-radius-radius4: 4px;
@@ -34,12 +66,12 @@
   --dl-layout-space-halfunit: 8px;
   --dl-layout-space-sixunits: 96px;
   --dl-layout-space-twounits: 32px;
-  --dl-color-theme-secondary1: #FFFFFF;
-  --dl-color-theme-secondary2: #FBF1EB;
+  --dl-color-theme-secondary1: #fd93fdff;
+  --dl-color-theme-secondary2: #52c0d0ff;
   --dl-layout-space-fiveunits: 80px;
   --dl-layout-space-fourunits: 64px;
   --dl-layout-space-threeunits: 48px;
-  --dl-color-theme-neutral-dark: #191818;
+  --dl-color-theme-neutral-dark: #bfbfbfff;
   --dl-layout-radius-cardradius: 8px;
   --dl-color-theme-neutral-light: #FBFAF9;
   --dl-layout-radius-imageradius: 8px;

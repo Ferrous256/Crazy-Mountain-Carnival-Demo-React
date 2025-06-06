@@ -6,7 +6,9 @@ import './gallery7.css'
 
 const Gallery7 = (props) => {
   return (
-    <div className="gallery7-gallery3 thq-section-padding">
+    <div
+      className={`gallery7-gallery3 thq-section-padding ${props.rootClassName} `}
+    >
       <div className="gallery7-max-width">
         <div className="gallery7-container1">
           <div className="gallery7-content">
@@ -75,6 +77,7 @@ Gallery7.defaultProps = {
   image5Src:
     'https://images.unsplash.com/photo-1470020618177-f49a96241ae7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0OTA2MDI1Mnw&ixlib=rb-4.1.0&q=80&w=1500',
   image6Alt: 'Local Artisans Showcasing Their Creations',
+  rootClassName: '',
   image2Alt: 'Live Music Performance',
   image7Alt: 'Dance Performance on the Main Stage',
   image3Alt: 'Food Trucks Offering Delicious Treats',
@@ -93,6 +96,7 @@ Gallery7.propTypes = {
   image2Src: PropTypes.string,
   image5Src: PropTypes.string,
   image6Alt: PropTypes.string,
+  rootClassName: PropTypes.string,
   image2Alt: PropTypes.string,
   image7Alt: PropTypes.string,
   image3Alt: PropTypes.string,

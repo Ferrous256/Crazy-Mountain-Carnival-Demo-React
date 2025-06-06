@@ -108,6 +108,10 @@
   object-fit: cover;
 }
  
+.gallery7root-class-name {
+  background-color: #000000;
+}
+ 
 @media(max-width: 991px) {
   .gallery7-content {
     align-items: center;
