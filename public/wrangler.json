@@ -2,9 +2,9 @@
   "name": "crazy-mountain-carnival-site",
   "compatibility_date": "2025-04-01",
   "compatibility_flags": ["nodejs_compat"],
-  "main": "./src/index.js",
+  "main": "../src/index.js",
   "assets": {
-    "directory": "./public",
+    "directory": "./",
     "binding": "ASSETS"
   },
   "observability": {
