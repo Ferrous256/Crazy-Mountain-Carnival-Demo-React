@@ -884,6 +884,8 @@
   overflow: hidden;
   position: relative;
   align-items: center;
+  padding-top: var(--dl-layout-space-fiveunits);
+  padding-bottom: var(--dl-layout-space-fiveunits);
   background-color: var(--dl-color-theme-accent1);
 }
  
@@ -992,6 +994,8 @@
 .home-container33 {
   width: 1200px;
   height: 477px;
+  margin-left: var(--dl-layout-space-fiveunits);
+  margin-right: var(--dl-layout-space-fiveunits);
   padding-left: var(--dl-layout-space-fiveunits);
   padding-right: var(--dl-layout-space-fiveunits);
 }
